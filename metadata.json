@@ -1,0 +1,6 @@
+{
+  "name": "NeuroCare AI",
+  "description": "AI Screening Tool for Early-Stage Dementia & Cognitive Impairment",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
